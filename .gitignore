@@ -1,0 +1,11 @@
+images/*
+!images/.gitkeep
+
+beldre
+beldre.exe
+
+__debug_bin
+
+dump.sql
+
+.vscode
